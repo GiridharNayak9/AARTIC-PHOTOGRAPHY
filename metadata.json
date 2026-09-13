@@ -1,0 +1,6 @@
+{
+  "name": "Aartic Photography",
+  "description": "Luxury 3D photography studio featuring gold and black aesthetics, interactive 3D camera showcase, and smooth parallax portfolio gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
